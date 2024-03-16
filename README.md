@@ -20,6 +20,6 @@ vara area = length * width
 bare area
 ```
 ## Explanation:
-vara is used to declare variables.
-bare is used to print the value of a variable or an expression.
-Arithmetic operations like multiplication (*) are used to perform calculations.
+- vara is used to declare variables.
+- bare is used to print the value of a variable or an expression.
+- Arithmetic operations like multiplication (*) are used to perform calculations.
