@@ -1,0 +1,13 @@
+{
+  "name": "nudilipi",
+  "version": "1.0.0",
+  "main": "code.js",
+  "type": "module",
+  "scripts": {
+    "start": "node compile.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
